@@ -1,2 +1,2 @@
 # backend
-Backend RESR API
+Backend REST API
